@@ -21,4 +21,4 @@ K-Beauty Mood는 사용자의 현재 감정을 기반으로 한국 화장품을 
 - 콘솔 기반 애플리케이션
 
 ---
-![코드 리뷰](images/codereview.png)
+![코드 리뷰](https://github.com/codereview.png)
