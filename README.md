@@ -26,4 +26,4 @@ K-Beauty Mood는 사용자의 현재 감정을 기반으로 한국 화장품을 
 ![코드 리뷰](codereview.png) 
 
 
-(https://youtu.be/wkZkBhP5rKk)
+[영상](https://youtu.be/wkZkBhP5rKk)
